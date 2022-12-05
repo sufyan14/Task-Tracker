@@ -111,7 +111,7 @@ function App() {
   );
 }
 
-// Can you classes as well
+// Can use classes as well
 
 // class App extends React.Component {
 //   render() {
